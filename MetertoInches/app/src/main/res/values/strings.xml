@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meter to Inches</string>
+    <string name="error_message">Enter valid meter value</string>
+</resources>
